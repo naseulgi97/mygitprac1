@@ -1,3 +1,7 @@
 1. dog
 2. cat
+<<<<<<< HEAD
 3. duck
+=======
+3. bird
+>>>>>>> seulgi
